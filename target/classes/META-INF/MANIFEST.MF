@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: myapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: com.ingecno
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://spring.io/projects/spring-boot/myapp
+Created-By: Maven Integration for Eclipse
+
